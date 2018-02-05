@@ -1,29 +1,24 @@
 {
   "basics": {
-    "name": "Richard Hendriks",
-    "label": "Programmer",
+    "name": "Timothy Bruns",
+    "label": "Software Developer",
     "picture": "",
-    "email": "richard.hendriks@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "email": "timothybruns@gmail.com",
+    "phone": "(203) 313-7618",
+    "summary": "Formerly an equity sales trader now turned developer, my ambitious nature has allowed me to explore possibilities in the professional worlds of both tech and finance. With strong interpersonal skills to blend with my passion for frontend React work, I strive to learn from my peers and to constantly challenge myself. My education in full-stack development ensures I can adapt to a variety of learning environments. Drawing upon my experiences in comfortably handling high-pressure situations, I enjoy attacking problems with a clear vision in a collaborative environment.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Los Angeles",
+      "countryCode": "US"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/timothy-bruns/"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "Twitter",
+        "username": "tbruns3",
+        "url": "https://twitter.com/tbruns3"
       }
     ]
   },
